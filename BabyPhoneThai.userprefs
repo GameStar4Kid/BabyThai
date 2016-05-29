@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../unity-pong/Assets/Scripts/UI.cs">
+    <Files>
+      <File FileName="../../../unity-pong/Assets/Scripts/MENU/MenuManager.cs" Line="8" Column="2" />
+      <File FileName="../../../unity-pong/Assets/Scripts/GameController.cs" Line="179" Column="16" />
+      <File FileName="../../../unity-pong/Assets/Scripts/MENU/ButtonManager.cs" Line="37" Column="27" />
+      <File FileName="../../../unity-pong/Assets/Scripts/MENU/PauseManager.cs" Line="1" Column="21" />
+      <File FileName="../../../unity-pong/Assets/Scripts/RollManager.cs" Line="68" Column="12" />
+      <File FileName="../../../unity-pong/Assets/Scripts/SettingsController.cs" Line="72" Column="23" />
+      <File FileName="../../../unity-pong/Assets/Scripts/UI.cs" Line="166" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
